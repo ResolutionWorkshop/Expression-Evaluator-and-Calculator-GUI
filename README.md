@@ -1,4 +1,4 @@
-# CSC 413 - Project One
+# CSC 413 - Expression Evaluator
 
 ## Student Name  : Grant Kennedy
 
